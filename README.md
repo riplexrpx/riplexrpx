@@ -33,6 +33,24 @@ Riplex (RPX) is a community-driven BEP-20 project focused on:
 💬 Telegram: https://t.me/riplexrpx  
 📘 GitHub: https://github.com/riplexrpx  
 
+<p align="center">
+  <a href="https://riplex.org">
+    <img src="https://img.shields.io/badge/Website-Riplex-blue?style=for-the-badge">
+  </a>
+
+  <a href="https://x.com/riplexrpx">
+    <img src="https://img.shields.io/badge/Twitter-Follow-black?style=for-the-badge">
+  </a>
+
+  <a href="https://t.me/riplexrpx">
+    <img src="https://img.shields.io/badge/Telegram-Join-blue?style=for-the-badge">
+  </a>
+
+  <a href="https://discord.gg/invite/neJFAdisUz2">
+    <img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge">
+  </a>
+</p>
+
 ## Token Information
 
 | Property | Details |
