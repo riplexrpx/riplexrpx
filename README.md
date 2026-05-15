@@ -89,5 +89,9 @@ Riplex aims to build a strong decentralized ecosystem powered by transparency, i
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riplexrpx&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
+## Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/riplexrpx/riplexrpx/output/github-contribution-grid-snake.svg" />
+</p>
 
