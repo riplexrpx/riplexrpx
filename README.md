@@ -5,6 +5,13 @@
 <h1 align="center">Riplex (RPX)</h1>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/BEP20-BNB%20Chain-yellow" />
+  <img src="https://img.shields.io/badge/Status-Active-success" />
+  <img src="https://img.shields.io/badge/Community-Driven-blue" />
+  <img src="https://img.shields.io/badge/Open%20Source-Yes-orange" />
+</p>
+
+<p align="center">
 Community-Driven BEP-20 Project on BNB Smart Chain
 </p>
 # Riplex (RPX)
