@@ -110,4 +110,28 @@ Riplex aims to build a strong decentralized ecosystem powered by transparency, i
 
 ⭐ Follow the project and support the Riplex community.
 
+## Roadmap
 
+### Phase 1
+- Token Launch
+- Community Building
+- Website Deployment
+- Social Media Expansion
+
+### Phase 2
+- Trust Wallet Integration
+- Coin Tracking Platforms
+- Marketing Campaigns
+- DeFi Utilities
+
+### Phase 3
+- Staking Platform
+- Ecosystem Development
+- Strategic Partnerships
+- Exchange Listings
+
+### Phase 4
+- DAO Governance
+- NFT Integration
+- Cross-Chain Expansion
+- Global Community Growth
