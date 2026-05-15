@@ -135,3 +135,21 @@ Riplex aims to build a strong decentralized ecosystem powered by transparency, i
 - NFT Integration
 - Cross-Chain Expansion
 - Global Community Growth
+
+## Security & Transparency
+
+Riplex (RPX) is committed to transparency, decentralized development, and ecosystem security.
+
+### Security Goals
+- Smart Contract Verification
+- Open Source Development
+- Community Transparency
+- Multisig Treasury Management
+- Continuous Ecosystem Improvements
+
+### Transparency
+- Public GitHub Repositories
+- Open Community Channels
+- Verified Smart Contract
+- Public Development Updates
+
