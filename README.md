@@ -73,13 +73,20 @@ Riplex (RPX) is a community-driven BEP-20 project focused on:
 ### Explorer
 https://bscscan.com/token/0x18F47b65a28357a3765347E430Fc29C07413FF8c
 
-## Vision
 
-Riplex aims to build a strong decentralized ecosystem powered by transparency, innovation, and community support.
+## Tech Stack
 
----
-
-⭐ Follow the project and support the Riplex community.
+<p align="center">
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/BNB%20Chain-F0B90B?style=for-the-badge&logo=binance&logoColor=black" />
+  
+  <img src="https://img.shields.io/badge/Web3-FF6B00?style=for-the-badge&logo=web3dotjs&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/DeFi-0052FF?style=for-the-badge" />
+  
+  <img src="https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ## GitHub Statistics
 
@@ -94,4 +101,13 @@ Riplex aims to build a strong decentralized ecosystem powered by transparency, i
 <p align="center">
   <img src="https://raw.githubusercontent.com/riplexrpx/riplexrpx/output/github-contribution-grid-snake.svg" />
 </p>
+
+## Vision
+
+Riplex aims to build a strong decentralized ecosystem powered by transparency, innovation, and community support.
+
+---
+
+⭐ Follow the project and support the Riplex community.
+
 
