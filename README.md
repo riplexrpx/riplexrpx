@@ -35,9 +35,16 @@ Riplex (RPX) is a community-driven BEP-20 project focused on:
 
 ## Token Information
 
-- Token Name: Riplex
-- Symbol: RPX
-- Network: BNB Smart Chain (BEP-20)
+| Property | Details |
+|----------|----------|
+| Token Name | Riplex |
+| Symbol | RPX |
+| Network | BNB Smart Chain (BEP-20) |
+| Decimals | 18 |
+| Contract Address | `0x18F47b65a28357a3765347E430Fc29C07413FF8c` |
+
+### Explorer
+https://bscscan.com/token/0x18F47b65a28357a3765347E430Fc29C07413FF8c
 
 ## Vision
 
