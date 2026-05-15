@@ -88,6 +88,12 @@ https://bscscan.com/token/0x18F47b65a28357a3765347E430Fc29C07413FF8c
 - Network: BNB Smart Chain (BEP-20)
 - Community-Driven Ecosystem
 
+## Whitepaper
+
+The official Riplex (RPX) whitepaper contains detailed information about the ecosystem, tokenomics, roadmap, utilities, and long-term vision.
+
+📄 [Download the Riplex Whitepaper](./Riplex-Whitepaper.pdf)
+
 ## Tech Stack
 
 <p align="center">
