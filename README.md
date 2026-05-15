@@ -1,16 +1,32 @@
-## Hi there 👋
+# Riplex (RPX)
 
-<!--
-**riplexrpx/riplexrpx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the official GitHub profile of Riplex 🚀
 
-Here are some ideas to get you started:
+Riplex (RPX) is a community-driven BEP-20 project focused on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Secure Payments
+- DeFi Integration
+- Staking Ecosystem
+- Blockchain Innovation
+- BNB Smart Chain Development
+
+## Official Links
+
+🌐 Website: https://riplex.org  
+🐦 Twitter/X: https://x.com/riplexrpx  
+💬 Telegram: https://t.me/riplexrpx  
+📘 GitHub: https://github.com/riplexrpx  
+
+## Token Information
+
+- Token Name: Riplex
+- Symbol: RPX
+- Network: BNB Smart Chain (BEP-20)
+
+## Vision
+
+Riplex aims to build a strong decentralized ecosystem powered by transparency, innovation, and community support.
+
+---
+
+⭐ Follow the project and support the Riplex community.
