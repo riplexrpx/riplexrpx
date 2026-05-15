@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/riplexrpx/assets/master/blockchains/smartchain/assets/0x18F47b65a28357a3765347E430Fc29C07413FF8c/logo.png" width="180" />
+</p>
+
+<h1 align="center">Riplex (RPX)</h1>
+
+<p align="center">
+Community-Driven BEP-20 Project on BNB Smart Chain
+</p>
 # Riplex (RPX)
 
 Welcome to the official GitHub profile of Riplex 🚀
