@@ -2,6 +2,14 @@
   <img src="https://raw.githubusercontent.com/riplexrpx/assets/master/blockchains/smartchain/assets/0x18F47b65a28357a3765347E430Fc29C07413FF8c/logo.png" width="180" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+Riplex+(RPX);Community-Driven+BEP-20+Project;Secure+Payments+%7C+DeFi+%7C+Staking;Built+on+BNB+Smart+Chain" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=riplexrpx&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
+
 <h1 align="center">Riplex (RPX)</h1>
 
 <p align="center">
