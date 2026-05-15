@@ -73,6 +73,20 @@ Riplex (RPX) is a community-driven BEP-20 project focused on:
 ### Explorer
 https://bscscan.com/token/0x18F47b65a28357a3765347E430Fc29C07413FF8c
 
+## Tokenomics
+
+| Category | Allocation |
+|----------|-------------|
+| Liquidity | 40% |
+| Community & Rewards | 25% |
+| Ecosystem Development | 15% |
+| Marketing | 10% |
+| Team & Operations | 10% |
+
+### Supply Details
+- Total Supply: 100,000,000,000 RPX
+- Network: BNB Smart Chain (BEP-20)
+- Community-Driven Ecosystem
 
 ## Tech Stack
 
