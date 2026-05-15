@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/riplexrpx/assets/master/blockchains/smartchain/assets/0x18F47b65a28357a3765347E430Fc29C07413FF8c/logo.png" width="180" />
 </p>
@@ -79,3 +80,14 @@ Riplex aims to build a strong decentralized ecosystem powered by transparency, i
 ---
 
 ⭐ Follow the project and support the Riplex community.
+
+## GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riplexrpx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riplexrpx&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
+
+
